@@ -4,7 +4,7 @@ This project is a Telegram bot created using the Aiogram3 library. The bot is de
 
 ### Screenshots
 
-![1s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/5d169eef-83aa-47b6-a984-f9fc15adcc50) ![2s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/5562f7cc-1173-4a3e-9624-bdc8ce5395e1)![3s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/b4544dab-f9bc-4ce5-98f0-4263a61c9f9c)![4s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/5f1f4a99-c1f5-4dca-b1fa-360e61442256)
+![1s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/5d169eef-83aa-47b6-a984-f9fc15adcc50) ![2s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/5562f7cc-1173-4a3e-9624-bdc8ce5395e1)![3s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/a6c1cd64-403c-4359-aae8-6fe4005ad8f0)![4s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/5f1f4a99-c1f5-4dca-b1fa-360e61442256)
 
 ## Main Technologies
 
