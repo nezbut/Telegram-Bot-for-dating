@@ -4,7 +4,7 @@
 
 ### Скриншоты
 
-![1s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/5d169eef-83aa-47b6-a984-f9fc15adcc50) ![2s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/5562f7cc-1173-4a3e-9624-bdc8ce5395e1)![3s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/b4544dab-f9bc-4ce5-98f0-4263a61c9f9c)![4s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/c675c078-5647-4e98-bce1-0eadb74fa8bd)
+![1s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/5d169eef-83aa-47b6-a984-f9fc15adcc50) ![2s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/5562f7cc-1173-4a3e-9624-bdc8ce5395e1)![3s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/31597a10-f6fa-4081-b85f-8eb803f06cd0)![4s](https://github.com/nezbut/Telegram-Bot-for-dating/assets/121932692/5f1f4a99-c1f5-4dca-b1fa-360e61442256)
 
 ## Основные технологии
 
