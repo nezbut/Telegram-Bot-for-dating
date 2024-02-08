@@ -2,7 +2,7 @@
 
 This project is a Telegram bot created using the Aiogram3 library. The bot is designed to search for new acquaintances on Telegram.
 
-[***Here you can see the bot itself***](https://t.me/nezbut_for_daiting_bot)
+<!-- [***Here you can see the bot itself***](https://t.me/nezbut_for_daiting_bot) -->
 
 ### Screenshots
 
